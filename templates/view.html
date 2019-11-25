@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}View Page{% endblock %}
+
+{% block content %}
+
+	{% for item in values%}
+		<p>Name: {{item.name}}<br>
+		   Email: {{item.email}}</p>
+	{% endfor%}
+	<p>DELETE ACOUNT :</p>
+	<form action="#" method="POST">
+		<input type="text" name="name" placeholder="Enter name of account"/>
+		<input type="submit" value="sumbit"/>
+	</form>
+{% endblock %}
