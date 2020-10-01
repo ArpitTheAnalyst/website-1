@@ -1,6 +1,13 @@
-FLASK APPLICATION
+#FLASK APPLICATION
 
-*HEROKU*
+
+This Website is among the first few contribution of us to GitHub
+This is a simple flask templated website which is for sure a sample one and open source contribution to the python developing community
+But not only that its for html dev also
+*Heroku*
+# How To Install Flask
+To install flask in just follow the below link
+
 https://first-flask-apps1406.herokuapp.com/
 
 
